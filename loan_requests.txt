@@ -1,0 +1,17 @@
+60
+20
+100
+80
+40
+300
+200
+100
+
+Request for 60 was paid in full
+Request for 20 was paid in full
+Request for 100 was paid in full
+Request for 80 was paid in full
+Request for 40 was paid in full
+Request for 300 partial payment of 200 was made
+Request for 200 went unpaid - kitty is empty
+Request for 100 went unpaid - kitty is empty
